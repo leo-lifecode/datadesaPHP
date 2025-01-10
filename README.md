@@ -1,5 +1,5 @@
 <p align="center">
-<img src="dsit/img/datapenduduk.png" width="400">
+<img src="dist/img/datapenduduk.png" width="400">
 </p>
 # Data Penduduk Management System
 
